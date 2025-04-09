@@ -12,8 +12,8 @@ MetroFlow is an open-sourced, city-scale metro flow dataset, covering the period
 The project follows a sequential workflow:
 
 1. **Step 1**: Extract trips from transaction records and label trips.  (step1_LabelUser.ipynb)
-2. **Step 2**: Extract OD flow at a 10-minutes temporal resolution.  (step2_ExtractOD.ipynb)
-3. **Step 3**: Extract In-Out flow at a 10-minutes temporal resolution. (step3_ExtractFlow.ipynb)
+2. **Step 2**: Extract OD flow at a 10-minute temporal resolution.  (step2_ExtractOD.ipynb)
+3. **Step 3**: Extract In-Out flow at a 10-minute temporal resolution. (step3_ExtractFlow.ipynb)
 
 
 
@@ -21,8 +21,8 @@ The project follows a sequential workflow:
 
 - **Analysis/**: Contains analysis scripts for technical validation
 - **results/**: Stores analysis results
-- **tool/**: Includes tool scripts for meta data acquisition and data processing
-
+- **tool/**: Includes tool scripts for metadata acquisition and data processing
+- **Data/**: Homes data files 
 
 
 ### Requirements
